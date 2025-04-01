@@ -1,7 +1,7 @@
-#Addition
+#mul
 def sum(a,b):
-	c = a + b
+	c = a * b
 	return c
 
 result = sum(10,20)
-print("Addition is:- ",result)
+print("Ans is:- ",result)
